@@ -1,0 +1,4 @@
+== Dependencies ==
+- python-Levenshtein
+- pygsr (google search recognition API)
+- parsedatetime (pip-python install parsedatetime)

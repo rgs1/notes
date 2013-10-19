@@ -1,0 +1,23 @@
+TODO:
+- shell:
+  - auto-complete
+
+- extend list
+    list [pending] (default)
+    list finished
+    list all
+    list due-today
+    list due-this-week
+    list due-this-month
+
+- shortcuts to modify state
+    finish note
+    pending note
+
+ - implement git backend (nice python module for git?)
+ - implement auto-complete for finite domain attributes
+ - sync to Notorious (smart sync)
+ - correctly handle KeyboardInterrupt
+ - implement google backend (calendar or tasks)
+ - decorator in backend for invariants (must-be-loaded, etc.)
+ - implement social credits (owned by, owned to)
